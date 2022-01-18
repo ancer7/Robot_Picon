@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" ContentHash="KWyPjiAw70mQA8Btb--6vA" FilePath="C:\Program Files (x86)\Notepad++\notepad++.exe" Selector="&lt;wnd app='notepad++.exe' cls='Notepad++' title='C:\Users\HP\Downloads\Pinang Starter Kit-20211123T035246Z-001\Pi*'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0hgC3Yv4_JUGUoL9YW1gLlw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="89e3f01754e3c432bea07b9aa817bee9.png" xmlns="">0mIIVQaNWRUeBy83sWLNazw</imageRef>
+</TargetApp>
